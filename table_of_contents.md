@@ -5,7 +5,7 @@
 <h2 align="center"> This Table of Contents is meant to help navigate through the data structures, algorithms and code challenges I have completed.</h2>
 
 <p align="center">
-<img src="https://badges.pufler.dev/updated/HexxKing/data_structures_and_algorithms/" width="200px">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HexxKing/data_structures_and_algorithms?color=blueviolet&style=for-the-badge">
 </p>
 
 -----------------------------------------------
@@ -17,6 +17,5 @@
 	- [Challenge Description](category/challenge/README.md) 
 	- [Code Implementation](category/challenge/challenge.md)
 	- [Tests](tests/test_challenge.py)
-	- [![Last Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev/updated/HexxKing/{repo})
 
 ## Challenges coming soon...
