@@ -2,6 +2,10 @@
 
 <h2 align="center"><img src="./assets/thankyou.gif" width="40px"> Thanks for visiting my "Data Structures and Algorithms" repo! <img src="./assets/thankyou.gif" width="40px"></h2>
 
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=HexxKing.data_structures_and_algorithms" width="100px">
+</p>
+
 --------------------------
 
 # This is my collection of data structures, algorithms and code challenges. Please visit the [Table of Contents](./table_of_contents.md) to view all the categories. In each catagory's folder you will find my notes, a whiteboard, the challenge's details, a link to the code and it's tests and a "Last Updated" badge. 
