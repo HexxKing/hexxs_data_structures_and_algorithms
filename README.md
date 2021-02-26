@@ -30,3 +30,4 @@
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - Emoji Gif from <a href="https://tenor.com/">Tenor</a>
 - Emojis from <a href="https://emojipedia.org/">Emojipedia</a>
+- Visitor Counter Badge from <a href="https://pufler.dev/git-badges/">Pufler</a>

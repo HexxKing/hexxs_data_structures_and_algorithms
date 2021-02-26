@@ -1,3 +1,5 @@
+# Table of Contents coming soon...
+
 ## Challenge Example Entry
 	- [Notes](notes/challenge_notes.md)
 	- [Whiteboard](whiteboards/challenge_whiteboard.png)
