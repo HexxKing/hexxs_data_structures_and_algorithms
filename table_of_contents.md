@@ -2,10 +2,10 @@
 
 <h3 align="center"><a href="./README.md">Back to README</a><h3>
 
-## This Table of Contents is meant to help navigate through the data structures, algorithms and code challenges I have completed.
+<h2 align="center"> This Table of Contents is meant to help navigate through the data structures, algorithms and code challenges I have completed.</h2>
 
 <p align="center">
-<img src="https://badges.pufler.dev/updated/HexxKing/data_structures_and_algorithms/" width="225px">
+<img src="https://badges.pufler.dev/updated/HexxKing/data_structures_and_algorithms/" width="200px">
 </p>
 
 -----------------------------------------------
