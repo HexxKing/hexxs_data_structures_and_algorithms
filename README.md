@@ -8,7 +8,7 @@
 
 --------------------------
 
-# This is my collection of data structures, algorithms and code challenges. Please visit the [Table of Contents](./table_of_contents.md) to view all the categories. Within each catagory you will find my notes, a whiteboard, the challenge's details, a link to the code and it's tests and a "Last Updated" badge. 
+# This is my collection of data structures, algorithms and code challenges. Please visit the [Table of Contents](./table_of_contents.md) to view all the categories. Within each catagory you will find my notes, a whiteboard, the challenge's details, a link to the code and it's tests. 
 
 --------------------------
 
