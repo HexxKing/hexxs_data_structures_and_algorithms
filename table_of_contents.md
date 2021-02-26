@@ -5,7 +5,7 @@
 ## This Table of Contents is meant to help navigate through the data structures, algorithms and code challenges I have completed.
 
 <p align="center">
-<img src="https://badges.pufler.dev/updated/HexxKing/data_structures_and_algorithms/" width="175px">
+<img src="https://badges.pufler.dev/updated/HexxKing/data_structures_and_algorithms/" width="200px">
 </p>
 
 -----------------------------------------------
