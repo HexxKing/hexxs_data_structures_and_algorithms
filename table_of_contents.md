@@ -12,10 +12,11 @@
 
   <!-- category = data structures or code challenge -->
 ## Challenge Example Entry
-	- [Notes](notes/challenge_notes.md)
-	- [Whiteboard](whiteboards/challenge_whiteboard.png)
-	- [Challenge Description](category/challenge/README.md) 
-	- [Code Implementation](category/challenge/challenge.md)
-	- [Tests](tests/test_challenge.py)
+
+  - [Notes](./notes/example_challenge_notes.md)
+  - [Whiteboard](whiteboards/challenge_whiteboard.png)
+  - [Challenge Description](category/challenge/README.md) 
+  - [Code Implementation](category/challenge/challenge.py)
+  - [Tests](tests/test_challenge.py)
 
 ## Challenges coming soon...
