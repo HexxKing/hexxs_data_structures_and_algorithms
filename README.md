@@ -9,7 +9,7 @@
 <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./assets/dev.png"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center"> Thanks for visiting my "Data Structures and Algorithms" repo! <img src="./assets/thankyou.gif" width="40px"></h2>
+<h2 align="center"><img src="./assets/thankyou.gif" width="40px"> Thanks for visiting my "Data Structures and Algorithms" repo! <img src="./assets/thankyou.gif" width="40px"></h2>
 
 --------------------------
 
