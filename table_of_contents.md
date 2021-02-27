@@ -1,6 +1,6 @@
 ![table of contents img](./assets/tableofcontents.png)
 
-<h3 align="center"><a href="./README.md">Back to README</a><h3>
+<h3 align="center"><a href="./README.md">👈 Back to README</a><h3>
 
 <h2 align="center"> This Table of Contents is meant to help navigate through the data structures, algorithms and code challenges I have completed.</h2>
 
