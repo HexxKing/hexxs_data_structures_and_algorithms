@@ -13,9 +13,9 @@
   <!-- category = data structures or code challenge -->
 ## Challenge Example Entry
 
-  - [Notes](./notes/example_challenge_notes.md)
-  - [Whiteboard](whiteboards/challenge_whiteboard.png)
   - [Challenge Description](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge_README.md) 
+  - [Notes](./notes/example_challenge_notes.md)
+  - [Whiteboard](./whiteboards/example_whiteboard.jpeg)
   - [Code Implementation](catagory/challenge/challenge.py)
   - [Tests](tests/test_challenge.py)
 
