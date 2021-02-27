@@ -25,7 +25,7 @@
 
 --------------------------
 
-## 📚 Resources Used to Build This README
+## 📚 Resources Used to Build This Repo
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - Emoji Gif from <a href="https://tenor.com/">Tenor</a>
