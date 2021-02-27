@@ -1,15 +1,29 @@
-# Helpful Resources
-- https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Whiteboard_Workflow.html
-- https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Challenge_Documentation
-- https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Challenge_Submission
-- Github Checklist:
- - [ ] Top-level README “Table of Contents” is updated
- - [ ] Feature tasks for this challenge are completed
- - [ ] Unit tests written and passing
-     - [ ] “Happy Path” - Expected outcome
-     - [ ] Expected failure
-     - [ ] Edge Case (if applicable/obvious)
- - [ ] README for this challenge is complete
-     - [ ] Summary, Description, Approach & Efficiency, Solution
-     - [ ] Link to code
-     - [ ] Picture of whiteboard
+<h3 align="center"><a href="./README.md">👈 Back to README</a><h3>
+
+# 💡 Helpful Resources
+
+
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+
+- [Whiteboard Guide](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Whiteboard_Workflow.html)
+
+- ✔️ Github Merge Checklist:
+    - [ ] README for this challenge is complete
+        - [ ] Summary
+        - [ ] Description
+        - [ ] Big-O
+            - [ ] Time
+            - [ ] Space
+    - [ ] Notes completed and sited
+    - [ ] Feature tasks for this code challenge are completed
+    - [ ] Unit tests written and passing
+        - [ ] Connection Test
+        - [ ] “Happy Path” - Expected outcome
+        - [ ] Expected failure
+        - [ ] Edge Case 
+    - [ ] Challenge added to Table of Contents
+        - [ ] Link to challenge's README
+        - [ ] Link to notes
+        - [ ] Picture of whiteboard uploaded and linked
+        - [ ] Link to code
+        - [ ] Link to tests

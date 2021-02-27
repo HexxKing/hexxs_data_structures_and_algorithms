@@ -12,6 +12,10 @@
 
 --------------------------
 
+## 💡 I have a short list of [helpful resources](./resources.md) I use while working in this repo. Check it out! 
+
+-------------------------
+
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/hexx-king/" target="_blank" rel="noopener noreferrer"><img height="38" src="./assets/linkedin.png"></a>&nbsp;&nbsp;
