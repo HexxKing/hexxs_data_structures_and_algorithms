@@ -23,6 +23,10 @@
 
 ## Feel free to reach out with any questions, comments, suggestions or screams of utter disgust through any of the venues listed above! 
 
+-------------------------
+
+### 💡 I have a short list of [helpful resources](./resources.md) I use while working in this repo. Check it out! 
+
 --------------------------
 
 ## 📚 Resources Used to Build This Repo

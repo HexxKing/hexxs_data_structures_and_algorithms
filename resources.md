@@ -1,9 +1,13 @@
-# Helpful Resources
+<h3 align="center"><a href="./README.md">👈 Back to README</a><h3>
+
+# 💡 Helpful Resources
+
+
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 - [Whiteboard Guide](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Whiteboard_Workflow.html)
 
-- Github Merge Checklist:
+- ✔️ Github Merge Checklist:
     - [ ] README for this challenge is complete
         - [ ] Summary
         - [ ] Description
