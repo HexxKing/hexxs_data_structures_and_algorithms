@@ -8,8 +8,6 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HexxKing/data_structures_and_algorithms?color=blueviolet&style=for-the-badge">
 </p>
 
----
-
 <!-- category = data structures or code challenge -->
 <!-- ## 🌟 Challenge Example Entry
 
