@@ -1,12 +1,16 @@
 import pytest
-from data_structures_and_algorithms.code_challenges.reverse_array.reverse_array import reverse_array
+from data_structures_and_algorithms.code_challenges.reverse_array.reverse_array import reverse_array, reverse_array_built_in
 
 #Test Connection 
 def test_reverse_array_connection():
   return reverse_array()
+  # arr = [1]
+  # expected = reverse_array(arr)
+  # actual = [1]
+  # assert expected == actual
 
 
-# “Happy Path” - Expected outcome
+# ========= “Happy Path” - Expected Outcome ==========
 
 # def test_happy_path():
 #   arr = [1, 2, 3, 4, 5, 6]
@@ -29,8 +33,16 @@ def test_reverse_array_connection():
 #   assert expected == actual
 
 
-# Expected failure
+# =========== Expected Failure ==============
 
 
-# Edge Case 
+# =========== Edge Case ================
 
+
+# ====== Alternative Technique - Built In Method ======
+
+def test_built_in_happy_path():
+  arr = [1, 2, 3, 4, 5, 6]
+  expected = reverse_array_built_in(arr)
+  actual = [6, 5, 4, 3, 2, 1]
+  assert expected == actual
