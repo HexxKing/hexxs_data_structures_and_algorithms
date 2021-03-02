@@ -7,7 +7,7 @@
 
 - Arrays are called "lists" in Python
 
-- The `reverse()` method reverses the sorting order of the elements.
+- The `reverse()` method reverses the sorting order of the elements and returns a reversed iterator object.
 
 ---------------------------------------
 

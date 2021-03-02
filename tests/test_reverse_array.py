@@ -1,5 +1,5 @@
 import pytest
-from data_structures_and_algorithms.code_challenges.reverse_array.reverse_array import reverse_array, reverse_array_built_in
+from data_structures_and_algorithms.code_challenges.reverse_array.reverse_array import reverse_array, reverse_array_built_in, reverse_array_sliced
 
 #Test Connection 
 def test_reverse_array_connection():
@@ -39,8 +39,15 @@ def test_reverse_array_connection():
 # =========== Edge Case ================
 
 
-# ====== Alternative Technique - Built In Method ======
+# ====== Alternative Technique - Slicing ======
+def test_happy_path_sliced():
+  arr = [1, 2, 3, 4, 5, 6]
+  expected = reverse_array_sliced(arr)
+  actual = [6, 5, 4, 3, 2, 1]
+  assert expected == actual
 
+
+# ====== Alternative Technique - Built In Method ======
 def test_built_in_happy_path():
   arr = [1, 2, 3, 4, 5, 6]
   expected = reverse_array_built_in(arr)
