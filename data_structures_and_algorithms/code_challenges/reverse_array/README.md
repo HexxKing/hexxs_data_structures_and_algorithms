@@ -7,8 +7,10 @@
 ### Once you’ve achieved a working solution, implement the same feature with a different methodology. What different techniques do you have when working with arrays? Recursion, loops, indexes, modifying the array input directly…?
 
 # ✨ Big-O
-  - ## ⏱️ Time : 
-  - ## 💾 Space : 
+  - ## ⏱️ Time : O(n)
+    Computation time will only take as long as the list is long.
+  - ## 💾 Space : O(n)
+    - No new data is created, the array/list is simply reversed in place.
 
 -------------------------------------
 

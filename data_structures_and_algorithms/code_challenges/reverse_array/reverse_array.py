@@ -15,7 +15,7 @@ def reverse_array_sliced(arr):
   return new_list
 
 
-# Alternative Technique - Built In Method
+# Alternative Technique - Reverse() Built In Method
 def reverse_array_built_in(arr):
   arr.reverse()
   return(arr)
