@@ -8,6 +8,7 @@
 
 ### Reverse() - Perferred Way
 ```
+# The Syntax
 list_name.reverse()
 ```
 - The `reverse()` method reverses the sorting order of the elements and returns a reversed iterator object.
@@ -22,6 +23,7 @@ list_name.reverse()
 
 ### Reversed()
 ```
+# The Syntax
 reversed(sequence) -> reverse iterator
 ```
 - The `reversed()` function in Python allows us to process the items in a sequence in reverse order. 
