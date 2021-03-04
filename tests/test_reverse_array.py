@@ -3,27 +3,27 @@ from data_structures_and_algorithms.code_challenges.reverse_array.reverse_array 
 
 #Test Connection 
 def test_reverse_array_connection():
-  return reverse_array()
-  # arr = [1]
-  # expected = reverse_array(arr)
-  # actual = [1]
-  # assert expected == actual
+  # return reverse_array()
+  arr = [1]
+  expected = reverse_array(arr)
+  actual = [1]
+  assert expected == actual
 
 
 # ========= “Happy Path” - Expected Outcome ==========
 
-# def test_happy_path():
-#   arr = [1, 2, 3, 4, 5, 6]
-#   expected = reverse_array(arr)
-#   actual = [6, 5, 4, 3, 2, 1]
-#   assert expected == actual
+def test_happy_path():
+  arr = [1, 2, 3, 4, 5, 6]
+  expected = reverse_array(arr)
+  actual = [6, 5, 4, 3, 2, 1]
+  assert expected == actual
 
 
-# def test_negative_numbers():
-#   arr = [89, 2354, 3546, 23, 10, -923, 823, -12]
-#   expected = reverse_array(arr)
-#   actual = [-12, 823, -923, 10, 23, 3546, 2354, 89]
-#   assert expected == actual
+def test_negative_numbers():
+  arr = [89, 2354, 3546, 23, 10, -923, 823, -12]
+  expected = reverse_array(arr)
+  actual = [-12, 823, -923, 10, 23, 3546, 2354, 89]
+  assert expected == actual
 
 
 # def test_large_collection():
