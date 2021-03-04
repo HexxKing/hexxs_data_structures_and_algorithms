@@ -29,6 +29,7 @@ reversed(sequence) -> reverse iterator
 - The `reversed()` function in Python allows us to process the items in a sequence in reverse order. 
 - It accepts a sequence and returns an iterator that accesses the given sequence in the reverse order.
 ```
+# Example:
 my_list = [1, 2, 4, 3, 5]
 print(list(reversed(my_list)))
 
@@ -37,6 +38,8 @@ print(list(reversed(my_list)))
 ```
 - If you need to access individual elements of a list in reverse order, it’s better to use reversed() method in Python.
 ```
+# Example: 
+
 # Countries Name List
 countries = ['India', 'USA', 'China']
 
