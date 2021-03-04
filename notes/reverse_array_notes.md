@@ -6,6 +6,7 @@
 # ✍️ Notes for Reverse Array
 - Arrays are called "lists" in Python
 
+---
 ### Reverse() - Perferred Way
 ```
 # The Syntax
@@ -21,6 +22,7 @@ list_name.reverse()
 - So this is very fast because it happens in a place and doesn’t take up any extra memory.
 - It modifies the existing list.
 
+---
 ### Reversed()
 ```
 # The Syntax
@@ -53,6 +55,7 @@ USA
 India
   ```
 
+---
 ### Slicing
 - Using the slicing technique, a copy of the list is made and the list is not sorted in-place.  Creating a copy requires more space to hold all of the existing elements. This exhausts more memory.
 - Slicing creates a shallow copy of the original list taking up more memory
@@ -60,7 +63,7 @@ India
 - The point to note here is that structure of the list is replicated and not the contained objects i.e elements in a list. Hence, the elements are not duplicated thus saving space. 
   - Also, only the references in the structure holding addresses of objects are updated. As mutability applies to the elements contained in a list. If the object is modified it will be reflected in other copies as well.
 
-
+---
 ### Iterative Loops
 
 ---------------------------------------
