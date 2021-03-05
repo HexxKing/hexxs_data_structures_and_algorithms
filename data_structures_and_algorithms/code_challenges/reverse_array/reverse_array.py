@@ -4,6 +4,7 @@
 # [X] - Return an array with elements in reversed order
 # [X] - Use a different technique
 
+
 # Featured Technique - For Loop Iteration 
 # Solution by Edwin Del Rio
 def reverse_array(arr):
@@ -11,22 +12,23 @@ def reverse_array(arr):
   pointer = len(arr) - 1
 
   for i in range(0, len(arr), 1):
-    # Base Case : if we've reached the end of the array, break out bc we are done
+    # Base Case : if we've reached the end of the array, break out bc we are done iterating
     if i > pointer :
       break
 
-    # hang on to that pointer's index
+    # hang on to the index at the pointer's value
     place_holder = arr[pointer]
 
-    # reassign the pointer's current index to the array's current iterator 
+    # This is where the swap happens
+    # the index at the pointer's value is reassigned to the current iteration's index
     arr[pointer] = arr[i]
-    
-    # the placeholder's index is assigned to the current index
+    # the placeholder's value is assigned to the current iteration's index
     arr[i] = place_holder
 
-    # move the pointer one index to the right
+    # reassign the pointer's value to move down the array one index to the right
     pointer -= 1
   return arr
+
 
 # Alternative Technique - Slicing 
 def reverse_array_sliced(arr):
