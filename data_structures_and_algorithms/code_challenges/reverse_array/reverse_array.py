@@ -40,3 +40,9 @@ def reverse_array_sliced(arr):
 def reverse_array_built_in(arr):
   arr.reverse()
   return(arr)
+
+
+# Alternative Technique - Reversed() Built In Method
+def reversed_array_built_in(arr):
+  arr.reverse()
+  return(arr)

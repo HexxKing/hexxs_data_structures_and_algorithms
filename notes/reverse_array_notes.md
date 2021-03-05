@@ -69,7 +69,15 @@ reversed_list = original_list[::-1]
 - Understanding the script which is written using slicing could be time-consuming and difficult to visualize. The syntax is complex and doesn’t give a clear picture of what it is doing.
 
 ---
-### Iterative Loops
+### Iterative Loop
+- For this technique, I used a pointer variable and a placeholder variable to essentially swap the index in place. 
+- The pointer starts by holding the index at the very end of the array.
+- The placeholder variable is assigned the same value as the pointer in an effort to hold on to it for later use.
+- This is where the swap happens.
+  - The current iteration's index is then assigned to the index at the pointer's value.
+  -  And the current iteration's index is reassigned to the placeholder's value .
+- Before the loop starts over again, the pointer's value is moved one index to the right.
+
 
 
 ---------------------------------------
