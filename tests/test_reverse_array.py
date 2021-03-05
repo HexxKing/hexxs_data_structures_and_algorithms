@@ -49,9 +49,16 @@ def test_happy_path_sliced():
   assert expected == actual
 
 
-# ====== Alternative Technique - Built In Method ======
-def test_built_in_happy_path():
+# ====== Alternative Technique - Built In Method reverse() ======
+def test_built_in_reverse_happy_path():
   arr = [1, 2, 3, 4, 5, 6]
   expected = reverse_array_built_in(arr)
+  actual = [6, 5, 4, 3, 2, 1]
+  assert expected == actual
+
+# ====== Alternative Technique - Built In Method reversed() ======
+def test_built_in_reversed_happy_path():
+  arr = [1, 2, 3, 4, 5, 6]
+  expected = reversed_array_built_in(arr)
   actual = [6, 5, 4, 3, 2, 1]
   assert expected == actual

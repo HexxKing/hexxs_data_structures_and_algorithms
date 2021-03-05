@@ -44,5 +44,5 @@ def reverse_array_built_in(arr):
 
 # Alternative Technique - Reversed() Built In Method
 def reversed_array_built_in(arr):
-  arr.reverse()
-  return(arr)
+  return list(reversed(arr))
+
