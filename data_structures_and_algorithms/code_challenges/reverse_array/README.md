@@ -9,7 +9,7 @@
 # ✨ Big-O
   - ## ⏱️ Time : O(n)
     Computation time will only take as long as the list is long.
-  - ## 💾 Space : O(n)
+  - ## 💾 Space : O(1)
     - No new data is created, the array/list is simply reversed in place.
 
 -------------------------------------
