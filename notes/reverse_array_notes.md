@@ -57,14 +57,28 @@ India
 
 ---
 ### Slicing
+```
+# The Syntax
+reversed_list = original_list[::-1]
+```
 - Using the slicing technique, a copy of the list is made and the list is not sorted in-place.  Creating a copy requires more space to hold all of the existing elements. This exhausts more memory.
-- Slicing creates a shallow copy of the original list taking up more memory
-- As it creates a copy it requires more space to hold all the existing elements.
+- Slicing creates a shallow copy of the original list taking up more memory. As it creates a copy it requires more space to hold all the existing elements.
 - The point to note here is that structure of the list is replicated and not the contained objects i.e elements in a list. Hence, the elements are not duplicated thus saving space. 
   - Also, only the references in the structure holding addresses of objects are updated. As mutability applies to the elements contained in a list. If the object is modified it will be reflected in other copies as well.
+- Slicing is fast. But it is difficult to understand decreasing readability of code as you go through the code.
+- Understanding the script which is written using slicing could be time-consuming and difficult to visualize. The syntax is complex and doesn’t give a clear picture of what it is doing.
 
 ---
-### Iterative Loops
+### Iterative Loop
+- For this technique, I used a pointer variable and a placeholder variable to essentially swap the index in place. 
+- The pointer starts by holding the index at the very end of the array.
+- The placeholder variable is assigned the same value as the pointer in an effort to hold on to it for later use.
+- This is where the swap happens.
+  - The current iteration's index is then assigned to the index at the pointer's value.
+  -  And the current iteration's index is reassigned to the placeholder's value .
+- Before the loop starts over again, the pointer's value is moved one index to the right.
+
+
 
 ---------------------------------------
 

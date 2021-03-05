@@ -23,7 +23,7 @@
 
   - [Challenge Description](./data_structures_and_algorithms/code_challenges/reverse_array/README.md) 
   - [Notes](./notes/reverse_array_notes.md)
-  - [Whiteboard](./whiteboards/reverse_array_whiteboard.jpeg)
+  - [Whiteboard](./whiteboards/reverse_array.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array.py)
   - [Tests](./tests/test_reverse_array.py)
 
