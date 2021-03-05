@@ -11,7 +11,6 @@ def test_reverse_array_connection():
 
 
 # ========= “Happy Path” - Expected Outcome ==========
-
 def test_happy_path():
   arr = [1, 2, 3, 4, 5, 6]
   expected = reverse_array(arr)
@@ -19,6 +18,7 @@ def test_happy_path():
   assert expected == actual
 
 
+# =========== Edge Case ================
 def test_negative_numbers():
   arr = [89, 2354, 3546, 23, 10, -923, 823, -12]
   expected = reverse_array(arr)
@@ -34,9 +34,11 @@ def test_large_collection():
 
 
 # =========== Expected Failure ==============
-
-
-# =========== Edge Case ================
+def test_expected_failure():
+  arr = []
+  expected = reverse_array(arr)
+  actual = []
+  assert expected == actual
 
 
 # ====== Alternative Technique - Slicing ======
