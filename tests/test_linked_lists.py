@@ -1,5 +1,5 @@
 import pytest
-from data_structures_and_algorithms.example_catagory.example_challenge.example_challenge import hello_world
+from data_structures_and_algorithms.data_structures.linked_lists.linked_lists import hello_world
 
 #Test Connection 
 def test_hello_world():
