@@ -21,21 +21,21 @@
 
 ## 🌟 Array Reverse
 
-  - [Challenge Description](./data_structures_and_algorithms/code_challenges/reverse_array/README.md) 
+  - [Challenge Description](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array_README.md) 
   - [Notes](./notes/reverse_array_notes.md)
   - [Whiteboard](./whiteboards/reverse_array.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array.py)
   - [Tests](./tests/test_reverse_array.py)
 
-<!-- ---
+---
 
 ## 🌟 Array Shift
 
-  - [Array Shift](./data_structures_and_algorithms/code_challenges/array_shift/array_shift_README.md) 
+  - [Challenge Description](./data_structures_and_algorithms/code_challenges/array_shift/array_shift_README.md) 
   - [Notes](./notes/array_shift_notes.md)
   - [Whiteboard](./whiteboards/array_shift.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/code_challenges/array_shift/array_shift.py)
-  - [Tests](./tests/test_array_shift.py) -->
+  - [Tests](./tests/test_array_shift.py)
 
 ---
 
@@ -46,6 +46,16 @@
   - [Whiteboard](./whiteboards/linked_lists.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists.py)
   - [Tests](./tests/test_linked_lists.py)
+
+---
+
+## 🌟 Trees
+
+  - [Challenge Description](./data_structures_and_algorithms/data_structures/trees/trees_README.md) 
+  - [Notes](./notes/trees_notes.md)
+  - [Whiteboard](./whiteboards/trees.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/data_structures/trees/trees.py)
+  - [Tests](./tests/test_trees.py)
 
 ---
 
