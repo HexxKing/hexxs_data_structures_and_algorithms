@@ -12,7 +12,7 @@ def reverse_array(arr):
   pointer = len(arr) - 1
 
   for i in range(0, len(arr), 1):
-    # Base Case : if we've reached the end of the array, break out bc we are done iterating
+    # Base Case : if we've reached the middle of the array, break out bc we are done iterating
     if i > pointer :
       break
 
@@ -20,12 +20,12 @@ def reverse_array(arr):
     place_holder = arr[pointer]
 
     # This is where the swap happens
-    # the index at the pointer's value is reassigned to the current iteration's index
+    # the pointer's index is reassigned to the current iteration's index
     arr[pointer] = arr[i]
     # the placeholder's value is assigned to the current iteration's index
     arr[i] = place_holder
 
-    # reassign the pointer's value to move down the array one index to the right
+    # reassign the pointer's index to move down the array one index to the left
     pointer -= 1
   return arr
 
