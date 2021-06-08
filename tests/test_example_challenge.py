@@ -8,6 +8,14 @@ def test_hello_world():
   
 # “Happy Path” - Expected outcome
 
+# Test One 
+
+# Test Some
+
+# Test Many
+
+# Test Repetition
+
 # Expected failure
 
 # Edge Case 

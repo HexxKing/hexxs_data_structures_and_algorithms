@@ -6,6 +6,17 @@
   - A node's "left" decendants can only contain values that are less than the node itself. Likewise, a node's "right" decendants can only contain values that are greater than the node itself. 
 
 # ✨ Description
+- Create a Node class with the following properties:
+  - value stored in the node 
+  - the left child node 
+  - the right child node
+- Create a BinaryTree class with the following methods:
+  - pre-order
+  - in-order
+  - post-order
+- Create a BinarySearchTree class with the following methods:
+  - add
+  - contains
 
 # ✨ Big-O
   - ## ⏱️ Time : 

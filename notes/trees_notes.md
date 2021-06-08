@@ -3,8 +3,9 @@
 
 ---------------------------------------
 
-# ✍️ Notes for Example Challenge
+# ✍️ Notes on Trees
 
 ---------------------------------------
 
 ## 📚 Resources Used in These Notes
+- A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
