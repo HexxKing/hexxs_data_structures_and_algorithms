@@ -59,4 +59,14 @@
 
 ---
 
+## 🌟 Array Operations
+
+  - [Challenge Description](./data_structures_and_algorithms/data_structures/array_operations/array_operations_README.md) 
+  - [Notes](./notes/array_operations_notes.md)
+  - [Whiteboard](./whiteboards/array_operations.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/data_structures/array_operations/array_operations.py)
+  - [Tests](./tests/test_array_operations.py)
+
+---
+
 ## More Challenges coming soon...
