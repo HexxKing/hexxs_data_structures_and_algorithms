@@ -31,7 +31,7 @@
 
 ## 🌟 Array Shift
 
-  - [Challenge Description](./data_structures_and_algorithms/code_challenges/array_shift/array_shift_README.md) 
+  - [Challenge Description](./data_structures_and_algorithms/code_challenges/array_shift/README.md) 
   - [Notes](./notes/array_shift_notes.md)
   - [Whiteboard](./whiteboards/example_whiteboard.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/code_challenges/array_shift/array_shift.py)
