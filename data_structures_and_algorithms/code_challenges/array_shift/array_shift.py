@@ -7,4 +7,5 @@
 # [ ] - STRETCH: Write a second function that removes an element from the middle index and shifts other elements in the array to fill the new gap.
 
 def insert_shift_array():
+
   pass

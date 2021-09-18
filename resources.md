@@ -16,6 +16,7 @@
             - [ ] Space
     - [ ] Notes completed and sited
     - [ ] Feature tasks for this code challenge are completed
+        - [ ] Docstring Added
     - [ ] Unit tests written and passing
         - [ ] Connection Test
         - [ ] “Happy Path” - Expected outcome
