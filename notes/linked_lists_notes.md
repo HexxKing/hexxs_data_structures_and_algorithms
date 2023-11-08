@@ -7,3 +7,4 @@
 ---------------------------------------
 
 ## 📚 Resources Used in These Notes
+- A Common-Sense Guide to Data Structures and Algorithms by Jay Wengrow
