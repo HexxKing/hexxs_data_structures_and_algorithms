@@ -33,7 +33,6 @@
 
   - [Challenge Description](./data_structures_and_algorithms/code_challenges/array_shift/array_shift_README.md) 
   - [Notes](./notes/array_shift_notes.md)
-  - [Whiteboard](./whiteboards/array_shift.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/code_challenges/array_shift/array_shift.py)
   - [Tests](./tests/test_array_shift.py)
 
@@ -43,7 +42,6 @@
 
   - [Challenge Description](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists_README.md) 
   - [Notes](./notes/linked_lists_notes.md)
-  - [Whiteboard](./whiteboards/linked_lists.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists.py)
   - [Tests](./tests/test_linked_lists.py)
 
@@ -53,9 +51,18 @@
 
   - [Challenge Description](./data_structures_and_algorithms/data_structures/trees/trees_README.md) 
   - [Notes](./notes/trees_notes.md)
-  - [Whiteboard](./whiteboards/trees.jpeg)
   - [Code Implementation](./data_structures_and_algorithms/data_structures/trees/trees.py)
   - [Tests](./tests/test_trees.py)
+
+---
+
+## 🌟 Array Operations
+
+  - [Challenge Description](./data_structures_and_algorithms/data_structures/array_operations/array_operations_README.md) 
+  - [Notes](./notes/array_operations_notes.md)
+  - [Whiteboard](./whiteboards/array_operations.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/data_structures/array_operations/array_operations.py)
+  - [Tests](./tests/test_array_operations.py)
 
 ---
 

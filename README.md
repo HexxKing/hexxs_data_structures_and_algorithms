@@ -8,11 +8,11 @@
 
 --------------------------
 
-# This is my collection of data structures, algorithms and code challenges. Please visit the [Table of Contents](./table_of_contents.md) to view all the categories. Within each catagory you will find my notes, a whiteboard, the challenge's details, a link to the code and it's tests. 
+# This is my collection of data structures, algorithms and code challenges. Please visit the [Table of Contents](./table_of_contents.md) to view all the categories. Within each category you will find my notes, a whiteboard, the challenge's details, a link to the code and its tests. 
 
 --------------------------
 
-## 💡 I have a short list of [helpful resources](./resources.md) I use while working in this repo. Check it out! 
+## 💡 I have a short list of [helpful resources](./resources.md) I used while working in this repo. Check it out! 
 
 -------------------------
 
