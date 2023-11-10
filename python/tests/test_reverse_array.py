@@ -1,5 +1,5 @@
 import pytest
-from data_structures_and_algorithms.code_challenges.reverse_array.reverse_array import reverse_array, reverse_array_built_in, reverse_array_sliced, reversed_array_built_in
+from python.code_challenges.reverse_array.reverse_array import reverse_array, reverse_array_built_in, reverse_array_sliced, reversed_array_built_in
 
 #Test Connection 
 def test_reverse_array_connection():
