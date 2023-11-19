@@ -128,3 +128,14 @@
   - **Elliptic Curve Cryptography**: A public-key cryptography method based on the mathematical properties of elliptic curves over finite fields. ECC operates by leveraging the algebraic structure of elliptic curves for key generation, encryption, and digital signatures.
   - **Advanced Encryption Standard (AES)**: A symmetric-key encryption standard used to protect sensitive information. AES operates on fixed block sizes (128, 192, or 256 bits) and uses a series of substitution-permutation operations on data blocks with a secret key.
   - **Diffie-Hellman Key Exchange**: A method for securely exchanging cryptographic keys over an insecure channel. It enables two parties to establish a shared secret key without directly transmitting the key, using the concept of modular exponentiation and discrete logarithm problems. -->
+
+## Solutions
+
+<!-- category = data structures or code challenge -->
+<!-- ## 🌟 Challenge Example Entry
+
+  - [Challenge Description](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge_README.md) 
+  - [Notes](./notes/example_challenge_notes.md)
+  - [Whiteboard](./whiteboards/example_whiteboard.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge.py)
+  - [Tests](./tests/test_example_challenge.py) -->

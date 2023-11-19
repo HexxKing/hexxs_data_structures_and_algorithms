@@ -121,3 +121,37 @@
     - Add element x to the filter.
     - Check if element x is in the filter (may have false positives).
     - Remove element x from the filter (note: not always supported). -->
+
+<!-- category = data structures or code challenge -->
+<!-- ## 🌟 Challenge Example Entry
+
+  - [Challenge Description](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge_README.md) 
+  - [Notes](./notes/example_challenge_notes.md)
+  - [Whiteboard](./whiteboards/example_whiteboard.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge.py)
+  - [Tests](./tests/test_example_challenge.py) -->
+
+## Solutions
+
+## 🌟 Arrays
+
+  - [Challenge Description](./data_structures_and_algorithms/data_structures/array_operations/array_operations_README.md) 
+  - [Notes](./notes/array_operations_notes.md)
+  - [Whiteboard](./whiteboards/array_operations.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/data_structures/array_operations/array_operations.py)
+  - [Tests](./tests/test_array_operations.py)
+
+
+## 🌟 Linked Lists 
+
+  - [Challenge Description](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists_README.md) 
+  - [Notes](./notes/linked_lists_notes.md)
+  - [Code Implementation](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists.py)
+  - [Tests](./tests/test_linked_lists.py)
+
+## 🌟 Trees
+
+  - [Challenge Description](./data_structures_and_algorithms/data_structures/trees/trees_README.md) 
+  - [Notes](./notes/trees_notes.md)
+  - [Code Implementation](./data_structures_and_algorithms/data_structures/trees/trees.py)
+  - [Tests](./tests/test_trees.py)
