@@ -25,12 +25,12 @@ Feel free to explore, contribute, and utilize these resources to enhance your un
 
 ## 📚 Table of Contents
 
-- [Data Structures](#data-structures)
-- [Algorithms](#algorithms)
-- [Code Challenges](#code-challenges)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+- [Data Structures](#-data-structures)
+- [Algorithms](#-algorithms)
+- [Code Challenges](#-code-challenges)
+- [Testing](#-testing)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 📚 Data Structures
 
@@ -40,8 +40,8 @@ Data structures provide a way to manage and organize data to meet the specific r
 
 ### Directory Structure
 
-- [Solutions](./data_structures/README.md#solutions)
-- [Implementation Roadmap](./data_structures/README.md#implementation-roadmap)
+- [Solutions](./data_structures/README.md#-solutions)
+- [Implementation Roadmap](./data_structures/README.md#-implementation-roadmap)
 
 ## 📚 Algorithms
 
@@ -51,8 +51,8 @@ Algorithms provide a systematic approach to problem-solving. The efficiency of a
 
 ### Directory Structure
 
-- [Solutions](./algorithms/README.md#solutions)
-- [Implementation Roadmap](./algorithms/README.md#implementation-roadmap)
+- [Solutions](./algorithms/README.md#-solutions)
+- [Implementation Roadmap](./algorithms/README.md#-implementation-roadmap)
 
 ## 📚 Code Challenges
 
@@ -62,8 +62,8 @@ Code challenges serve as a practical application of data structures and algorith
 
 ### Directory Structure
 
-- [Solutions](./code_challenges/README.md#solutions)
-- [Implementation Roadmap](./code_challebges/README.md#implementation-roadmap)
+- [Solutions](./code_challenges/README.md#-solutions)
+- [Implementation Roadmap](./code_challebges/README.md#-implementation-roadmap)
 
 ## 📚 Testing
 
