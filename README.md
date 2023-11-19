@@ -7,11 +7,11 @@
 
 Welcome to my repository housing a diverse collection of data structures, algorithms, and code challenges. This repository began its journey in 2020 during my studies at a coding bootcamp and has since evolved into a growing compendium.
 
-## Overview
+## 📚 Overview
 
 This repository is a testament to my studies and practical implementations of data structures, algorithms, and code challenges. It's a curated collection that I've cultivated to encapsulate my understanding and work in these areas of computer science.
 
-## Content
+## 📚 Content
 
 Here, you'll find a multitude of resources:
 - **Code Implementations:** Written in various programming languages to offer a comprehensive view of the concepts.
@@ -23,7 +23,7 @@ The repository's diverse content spans multiple programming languages and is des
 
 Feel free to explore, contribute, and utilize these resources to enhance your understanding of data structures, algorithms, and coding challenges!
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
@@ -32,7 +32,7 @@ Feel free to explore, contribute, and utilize these resources to enhance your un
 - [Contributing](#contributing)
 - [License](#license)
 
-## Data Structures
+## 📚 Data Structures
 
 Data structures are a way of organizing and storing data to perform operations efficiently. They define how data is stored, accessed, and manipulated.
 
@@ -43,7 +43,7 @@ Data structures provide a way to manage and organize data to meet the specific r
 - [Solutions](./data_structures/README.md#solutions)
 - [Implementation Roadmap](./data_structures/README.md#implementation-roadmap)
 
-## Algorithms
+## 📚 Algorithms
 
 Algorithms are step-by-step formulas for solving problems and performing tasks. They are a set of rules or instructions that specify the sequence of operations to be performed to solve a particular problem.
 
@@ -54,7 +54,7 @@ Algorithms provide a systematic approach to problem-solving. The efficiency of a
 - [Solutions](./algorithms/README.md#solutions)
 - [Implementation Roadmap](./algorithms/README.md#implementation-roadmap)
 
-## Code Challenges
+## 📚 Code Challenges
 
 Code challenges are problems or puzzles that require a solution through programming. They are often used as a means to practice and improve coding skills, problem-solving abilities, and algorithmic thinking.
 
@@ -65,7 +65,7 @@ Code challenges serve as a practical application of data structures and algorith
 - [Solutions](./code_challenges/README.md#solutions)
 - [Implementation Roadmap](./code_challebges/README.md#implementation-roadmap)
 
-## Testing
+## 📚 Testing
 
 Testing is an integral part of each solution in this repository. Tests reside within the same folder as the respective solution implementation.
 
@@ -82,7 +82,7 @@ The test suites are designed to encompass a spectrum of scenarios, including:
 - **Duplicated Values:** Handling scenarios involving duplicate values within the input.
 - **Edge Cases:** Evaluating the solution's behavior in boundary or exceptional cases that might challenge its performance or correctness.
 
-## Contributing
+## 📚 Contributing
 
 At this time, I'm not accepting contributions in the form of Pull Requests. However, your engagement is highly encouraged, and you're welcome to challenge or discuss any aspect of the repository by submitting a formal Issue.
 
@@ -97,13 +97,13 @@ If you'd like to challenge or discuss any code, concept, or solution present in 
 
 I value your input and thoughtful engagement with the repository's content. Your contributions through meaningful discussions and challenges are highly appreciated!
 
-## License
+## 📚 License
 
 [MIT License](./LICENSE)
 
 Copyright (c) 2023 Heather "Hexx" King
 
-## Resources
+## 📚 Resources
 
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>

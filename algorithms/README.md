@@ -1,5 +1,5 @@
 
-### Implementation Roadmap
+## 📚 Implementation Roadmap
 
 - **Sorting Algorithms**
   - Sorting algorithms are a set of techniques used to arrange elements in a specific order, typically in ascending or descending order based on some criteria. Sorting is a fundamental operation in computer science and plays a crucial role in various applications, including searching, data analysis, and database operations. 
@@ -129,7 +129,7 @@
   - **Advanced Encryption Standard (AES)**: A symmetric-key encryption standard used to protect sensitive information. AES operates on fixed block sizes (128, 192, or 256 bits) and uses a series of substitution-permutation operations on data blocks with a secret key.
   - **Diffie-Hellman Key Exchange**: A method for securely exchanging cryptographic keys over an insecure channel. It enables two parties to establish a shared secret key without directly transmitting the key, using the concept of modular exponentiation and discrete logarithm problems. -->
 
-## Solutions
+## 📚 Solutions
 
 <!-- category = data structures or code challenge -->
 <!-- ## 🌟 Challenge Example Entry

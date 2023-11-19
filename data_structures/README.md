@@ -1,4 +1,4 @@
-## Implementation Roadmap
+## 📚 Implementation Roadmap
 
 - **Arrays:** A collection of elements, each identified by an index or a key.
   - Operations:
@@ -131,9 +131,9 @@
   - [Code Implementation](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge.py)
   - [Tests](./tests/test_example_challenge.py) -->
 
-## Solutions
+## 📚 Solutions
 
-## 🌟 Arrays
+### 🌟 Arrays
 
   - [Challenge Description](./data_structures_and_algorithms/data_structures/array_operations/array_operations_README.md) 
   - [Notes](./notes/array_operations_notes.md)
@@ -142,14 +142,14 @@
   - [Tests](./tests/test_array_operations.py)
 
 
-## 🌟 Linked Lists 
+### 🌟 Linked Lists 
 
   - [Challenge Description](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists_README.md) 
   - [Notes](./notes/linked_lists_notes.md)
   - [Code Implementation](./data_structures_and_algorithms/data_structures/linked_lists/linked_lists.py)
   - [Tests](./tests/test_linked_lists.py)
 
-## 🌟 Trees
+### 🌟 Trees
 
   - [Challenge Description](./data_structures_and_algorithms/data_structures/trees/trees_README.md) 
   - [Notes](./notes/trees_notes.md)
