@@ -1,3 +1,8 @@
+# Algorithms
+
+Algorithms are step-by-step formulas for solving problems and performing tasks. They are a set of rules or instructions that specify the sequence of operations to be performed to solve a particular problem.
+
+Algorithms provide a systematic approach to problem-solving. The efficiency of an algorithm is often measured in terms of time and space complexity known as Big O. Different algorithms can be applied to solve the same problem, and their efficiency may vary.
 
 ## 📚 Implementation Roadmap
 

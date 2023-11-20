@@ -1,3 +1,8 @@
+# Code Challenges
+
+Code challenges are problems or puzzles that require a solution through programming. They are often used as a means to practice and improve coding skills, problem-solving abilities, and algorithmic thinking.
+
+Code challenges serve as a practical application of data structures and algorithms. They help programmers enhance their problem-solving skills, understand how to choose appropriate data structures, and optimize algorithms for efficient solutions.
 
 ## 📚  Implementation Roadmap
 
@@ -22,17 +27,3 @@
   - [Code Implementation](./data_structures_and_algorithms/example_catagory/example_challenge/example_challenge.py)
   - [Tests](./tests/test_example_challenge.py) -->
 
-### 🌟 Array Reverse
-
-  - [Challenge Description](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array_README.md) 
-  - [Notes](./notes/reverse_array_notes.md)
-  - [Whiteboard](./whiteboards/reverse_array.jpeg)
-  - [Code Implementation](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array.py)
-  - [Tests](./tests/test_reverse_array.py)
-
-### 🌟 Array Shift
-
-  - [Challenge Description](./data_structures_and_algorithms/code_challenges/array_shift/array_shift_README.md) 
-  - [Notes](./notes/array_shift_notes.md)
-  - [Code Implementation](./data_structures_and_algorithms/code_challenges/array_shift/array_shift.py)
-  - [Tests](./tests/test_array_shift.py)

@@ -135,12 +135,26 @@
 
 ### 🌟 Arrays
 
-  - [Challenge Description](./data_structures_and_algorithms/data_structures/array_operations/array_operations_README.md) 
-  - [Notes](./notes/array_operations_notes.md)
-  - [Whiteboard](./whiteboards/array_operations.jpeg)
-  - [Code Implementation](./data_structures_and_algorithms/data_structures/array_operations/array_operations.py)
-  - [Tests](./tests/test_array_operations.py)
+  <!-- - [Challenge Description](./data_structures_and_algorithms/data_structures/array_operations/array_operations_README.md)  -->
+  - [Notes]()
+  - [Whiteboard]()
+  - [Code Implementation]()
+  - [Tests]()
 
+### 🌟 Array Reverse
+
+  - [Challenge Description](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array_README.md) 
+  - [Notes](./notes/reverse_array_notes.md)
+  - [Whiteboard](./whiteboards/reverse_array.jpeg)
+  - [Code Implementation](./data_structures_and_algorithms/code_challenges/reverse_array/reverse_array.py)
+  - [Tests](./tests/test_reverse_array.py)
+
+### 🌟 Array Shift
+
+  - [Challenge Description](./data_structures_and_algorithms/code_challenges/array_shift/array_shift_README.md) 
+  - [Notes](./notes/array_shift_notes.md)
+  - [Code Implementation](./data_structures_and_algorithms/code_challenges/array_shift/array_shift.py)
+  - [Tests](./tests/test_array_shift.py)
 
 ### 🌟 Linked Lists 
 
